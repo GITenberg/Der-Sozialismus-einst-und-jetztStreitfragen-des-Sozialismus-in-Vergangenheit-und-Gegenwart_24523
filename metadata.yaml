@@ -1,0 +1,33 @@
+_repo: Der-Sozialismus-einst-und-jetztStreitfragen-des-Sozialismus-in-Vergangenheit-und-Gegenwart_24523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernstein, Eduard
+    alias: Bernstein, Ed. (Eduard)
+    birthdate: 1850
+    deathdate: 1932
+    gutenberg_agent_id: '26552'
+    url: http://www.gutenberg.org/2009/agents/26552
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Eduard_Bernstein
+    - http://en.wikipedia.org/wiki/Eduard_Bernstein
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24523'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism -- History'
+title: 'Der Sozialismus einst und jetzt
+
+  Streitfragen des Sozialismus in Vergangenheit und Gegenwart'
+url: http://www.gutenberg.org/ebooks/24523
