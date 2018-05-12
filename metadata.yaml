@@ -15,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Eduard_Bernstein
     - http://en.wikipedia.org/wiki/Eduard_Bernstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24523#Der-Sozialismus-einst-und-jetztStreitfragen-des-Sozialismus-in-Vergangenheit-und-Gegenwart
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-02-05'
 gutenberg_type: Text
